@@ -1,0 +1,31 @@
+body{
+	margin:0;
+}
+#container{
+	display:flex;
+}
+.colors{
+	width:30vw;
+	height:100vh;
+}
+#color1{
+	background-color: blue;
+}
+#color2{
+	background-color: red;
+}
+#color3{
+	background-color: yellow;
+}
+#color4{
+	background-color: green;
+}
+#color5{
+	background-color: black;
+}
+#color6{
+	background-color: purple;
+}
+#color7{
+	background-color: orange;
+}
